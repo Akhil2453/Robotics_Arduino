@@ -4,7 +4,7 @@ Motor Interfacing
 Interface a DC mtor with Arduino
 (without Motor Driver)
 
-This can be done in two ways:
+This can be done in 3 ways:
  1. This code shows the first method:
     Connections ::
     the two terminals(wire||poles||points) of motors are : 
