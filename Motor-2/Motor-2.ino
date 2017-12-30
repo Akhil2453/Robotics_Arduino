@@ -5,7 +5,7 @@
   (without Motor Driver)
 
   This can be done in 3 ways:
-  2. This code shows the first method:
+  2. This code shows the second method:
     Connections ::
     the two terminals(wire||poles||points) of motors are :
     m1 AND m2
