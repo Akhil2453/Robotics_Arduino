@@ -28,10 +28,10 @@
 #include <SoftwareSerial.h>//UNO
 
 // Comment the below line while working with Arduino Mega
-SoftwareSerial sw(6, 7) //(Rx,Tx)   UNO
+SoftwareSerial sw(6, 7); //(Rx,Tx)   UNO
 
 int pin = 13;
-          int data = 0;
+int data = 0;
 
 void setup() {
   // put your setup code here, to run once:
