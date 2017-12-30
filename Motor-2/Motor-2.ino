@@ -12,6 +12,7 @@
 
     m1 --> pin 9
     m2 --> pin 10
+    
 */
 
 // initialise variables with both pins
