@@ -54,7 +54,7 @@ void loop() {
   /*
    * You can map the vales down to the range 0-10 in the foll way
    * xV = map(xV, 0, 1023, 0, 10);
-   * yV = mapr(yV, 0, 1023, 0 ,10);
+   * yV = map(yV, 0, 1023, 0 ,10);
    */
 
 }
